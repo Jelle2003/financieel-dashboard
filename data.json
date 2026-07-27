@@ -1,0 +1,36 @@
+{
+  "bijgewerkt": "27/07/2026 16:55",
+  "inkomen": 3200,
+  "pct": {
+    "vast": 0.5,
+    "sparen": 0.15,
+    "vrij": 0.15,
+    "beleggen": 0.2
+  },
+  "bedrag": {
+    "vast": 1600,
+    "sparen": 480,
+    "vrij": 480,
+    "beleggen": 640
+  },
+  "werkelijk": {
+    "vast": 1130,
+    "sparen": 480,
+    "vrij": 90,
+    "beleggen": 640
+  },
+  "cumulatief": [
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640,
+    640
+  ]
+}
