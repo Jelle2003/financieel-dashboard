@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "27/07/2026 19:31",
+  "bijgewerkt": "27/07/2026 19:32",
   "inkomen": 1510.935,
   "pct": {
     "vast": 0.5,
@@ -14,9 +14,9 @@
     "beleggen": 302.18699999999995
   },
   "werkelijk": {
-    "vast": 1130,
-    "sparen": 480,
-    "vrij": 90,
+    "vast": 20,
+    "sparen": 0,
+    "vrij": 46.25,
     "beleggen": 0
   },
   "cumulatief": [
